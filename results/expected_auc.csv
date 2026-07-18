@@ -1,0 +1,6 @@
+degradation_model,SSM_AUC,TEM_images_AUC,TEM_silhouettes_AUC
+Global timing jitter,0.8360,0.8782,0.7974
+Adiabatic ramp distortion,0.7660,0.8537,0.8135
+Correlated sweep noise (OU),0.6932,0.9703,0.9490
+Longitudinal high-frequency ripple,0.6759,0.9474,0.9071
+Combined multi-channel control degradation,0.6817,0.9278,0.8463

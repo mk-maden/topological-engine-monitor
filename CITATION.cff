@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying manuscript."
+title: "Topological Engine Monitor: simulation and analysis code"
+type: software
+authors:
+  - family-names: Maden
+    given-names: "Miraç Kerem"
+  - family-names: Ullah
+    given-names: Asghar
+  - family-names: Coskunuzer
+    given-names: Baris
+  - family-names: Müstecaplıoğlu
+    given-names: "Özgür E."
+version: 1.0.0
+date-released: 2026-07-18

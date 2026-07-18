@@ -1,0 +1,6 @@
+notebook,code_cells,syntax_status,details
+01_global_timing_jitter.ipynb,11,PASS,
+02_adiabatic_ramp_distortion.ipynb,11,PASS,
+03_correlated_ou_sweep_noise.ipynb,11,PASS,
+04_longitudinal_high_frequency_ripple.ipynb,11,PASS,
+05_combined_multi_channel_degradation.ipynb,11,PASS,
