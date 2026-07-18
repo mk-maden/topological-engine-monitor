@@ -83,6 +83,4 @@ No external or private dataset is required.
 
 ## License
 
-A software license should be selected by the authors before public release.
-A permissive license such as MIT or BSD-3-Clause is suitable if all authors
-agree.
+This repository is released under the MIT License. See `LICENSE` for details.
